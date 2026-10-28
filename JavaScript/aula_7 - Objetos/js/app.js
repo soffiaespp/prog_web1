@@ -1,5 +1,5 @@
 /*
-Obejetos armazenam dados organizados ex: propriedade e valor
+Objetos armazenam dados organizados ex: propriedade e valor
 ex01:
 */
 
